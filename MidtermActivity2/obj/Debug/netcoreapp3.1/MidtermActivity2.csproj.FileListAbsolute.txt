@@ -1,0 +1,17 @@
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\bin\Debug\netcoreapp3.1\MidtermActivity2.exe
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\bin\Debug\netcoreapp3.1\MidtermActivity2.deps.json
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\bin\Debug\netcoreapp3.1\MidtermActivity2.runtimeconfig.json
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\bin\Debug\netcoreapp3.1\MidtermActivity2.runtimeconfig.dev.json
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\bin\Debug\netcoreapp3.1\MidtermActivity2.dll
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\bin\Debug\netcoreapp3.1\MidtermActivity2.pdb
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\obj\Debug\netcoreapp3.1\MidtermActivity2.csproj.AssemblyReference.cache
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\obj\Debug\netcoreapp3.1\MidtermActivity2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\obj\Debug\netcoreapp3.1\MidtermActivity2.AssemblyInfoInputs.cache
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\obj\Debug\netcoreapp3.1\MidtermActivity2.AssemblyInfo.cs
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\obj\Debug\netcoreapp3.1\MidtermActivity2.csproj.CoreCompileInputs.cache
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\obj\Debug\netcoreapp3.1\MidtermActivity2.dll
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\obj\Debug\netcoreapp3.1\MidtermActivity2.pdb
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\obj\Debug\netcoreapp3.1\MidtermActivity2.genruntimeconfig.cache
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\bin\Debug\netcoreapp3.1\TrigonometryLibrary.dll
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\bin\Debug\netcoreapp3.1\TrigonometryLibrary.pdb
+D:\Franco\BSCS-3A\C#\MidtermActivity2\MidtermActivity2\obj\Debug\netcoreapp3.1\MidtermActivity2.csproj.CopyComplete

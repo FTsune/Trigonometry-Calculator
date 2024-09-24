@@ -1,0 +1,10 @@
+D:\Franco\BSCS-3A\C#\MidtermActivity2\TrigonometryLibrary\bin\Debug\netcoreapp3.1\TrigonometryLibrary.deps.json
+D:\Franco\BSCS-3A\C#\MidtermActivity2\TrigonometryLibrary\bin\Debug\netcoreapp3.1\TrigonometryLibrary.dll
+D:\Franco\BSCS-3A\C#\MidtermActivity2\TrigonometryLibrary\bin\Debug\netcoreapp3.1\TrigonometryLibrary.pdb
+D:\Franco\BSCS-3A\C#\MidtermActivity2\TrigonometryLibrary\obj\Debug\netcoreapp3.1\TrigonometryLibrary.csproj.AssemblyReference.cache
+D:\Franco\BSCS-3A\C#\MidtermActivity2\TrigonometryLibrary\obj\Debug\netcoreapp3.1\TrigonometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Franco\BSCS-3A\C#\MidtermActivity2\TrigonometryLibrary\obj\Debug\netcoreapp3.1\TrigonometryLibrary.AssemblyInfoInputs.cache
+D:\Franco\BSCS-3A\C#\MidtermActivity2\TrigonometryLibrary\obj\Debug\netcoreapp3.1\TrigonometryLibrary.AssemblyInfo.cs
+D:\Franco\BSCS-3A\C#\MidtermActivity2\TrigonometryLibrary\obj\Debug\netcoreapp3.1\TrigonometryLibrary.csproj.CoreCompileInputs.cache
+D:\Franco\BSCS-3A\C#\MidtermActivity2\TrigonometryLibrary\obj\Debug\netcoreapp3.1\TrigonometryLibrary.dll
+D:\Franco\BSCS-3A\C#\MidtermActivity2\TrigonometryLibrary\obj\Debug\netcoreapp3.1\TrigonometryLibrary.pdb

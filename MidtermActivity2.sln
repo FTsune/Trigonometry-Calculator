@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MidtermActivity2", "MidtermActivity2\MidtermActivity2.csproj", "{57FB30EC-4549-4A02-94F5-95E8E2F9DEB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrigonometryLibrary", "TrigonometryLibrary\TrigonometryLibrary.csproj", "{092AFC20-664B-42C1-95BE-D10F01AA53B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FB30EC-4549-4A02-94F5-95E8E2F9DEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FB30EC-4549-4A02-94F5-95E8E2F9DEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FB30EC-4549-4A02-94F5-95E8E2F9DEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FB30EC-4549-4A02-94F5-95E8E2F9DEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092AFC20-664B-42C1-95BE-D10F01AA53B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092AFC20-664B-42C1-95BE-D10F01AA53B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092AFC20-664B-42C1-95BE-D10F01AA53B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092AFC20-664B-42C1-95BE-D10F01AA53B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF18446C-0916-4861-9AFC-1A256437DAD1}
+	EndGlobalSection
+EndGlobal
